@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 public class GUI implements ActionListener{
 	
-	int count =0;
+	int count = 0;
 	JLabel label;
 	JPanel panel;
 	JButton button;
